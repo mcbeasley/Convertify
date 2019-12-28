@@ -9,4 +9,4 @@ podfile: Podfile
 osx_image: xcode11.3
 xcode_workspace: Convertify.xcworkspace
 xcode_scheme: Convertify
-xcode_destination: platform=iOS Simulator,OS=13.2,name=iPhone 11 Pro Max
+xcode_destination: platform=iOS Simulator,OS=13.2.2,name=iPhone 11 Pro Max
